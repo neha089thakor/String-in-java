@@ -1,4 +1,11 @@
-# String-in-
+# String-in-java ------------
+------java code -------------
+
+
+
+
+
+
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
@@ -30,8 +37,7 @@ public class Main {
         System.out.println(sr.substring(2));
         //>>2nd name.substring aama end ma hse aae nai aave pphela nu avse//int start ,int end
         System.out.println(sr.substring(0,4));
-        //>>replace string replace and old string in new string....
-
+       //>>replace string replace and old string in new string....
         System.out.println(sr.replace('e','y'));
         //>>one word thi vadhare replace krva.......
         System.out.println(sr.replace("eh","iy"));
